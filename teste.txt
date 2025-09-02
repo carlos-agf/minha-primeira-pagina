@@ -7,6 +7,6 @@ git config --global user.email "email@dominio.com"
 
 novo teste agora com comandos e com o nome de usuario certo.
 
-git add .
-git commit -m "teste de push com novo nome de usuário"
-git push 
+git add . // 1
+git commit -m "teste de push com novo nome de usuário" // 2
+git push // 3
