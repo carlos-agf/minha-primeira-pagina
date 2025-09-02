@@ -1,1 +1,9 @@
-Teste
+Teste de conexão
+
+arquivo criado para testar o push direto do vscode
+
+git config --global user.name "nome_usuario"
+git config --global user.email "email@dominio.com"
+
+novo teste agora com comandos e com o nome de usuario certo.
+
